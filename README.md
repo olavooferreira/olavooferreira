@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/olavooferreira/f579e151c5491578e6b6ffb5b1e75ae8/raw/e03259fa0ec20e5c154b20013e5d1876f89d5263/githubcard.svg"/>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/olavooferreira/f579e151c5491578e6b6ffb5b1e75ae8/raw/5fbd2d5a76259ddb0510f28e9ac91bbfd0000147/githubcard.svg"/>
 
 <!-- <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Olavo Ferreira </h1> -->
 
