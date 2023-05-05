@@ -5,9 +5,9 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=olavooferreira&color=yellow" alt="Profile views" /> </p> -->
 
 ###
- - 🔭 Atualmente trabalhando com Social Media Design.    
+ - 🔭 Atualmente trabalhando com Suporte tecnico em rede.    
 
- - 🌱 Estudando Front-end( HTML, CSS, Javascript).      
+ - 🌱 Estudando Back-end/Devops ( Linux, Nodejs  ).      
 
  - 📫 Contato:olavoferreira107@gmail.com      
 
