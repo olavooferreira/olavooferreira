@@ -7,7 +7,7 @@
 ###
  - 🔭 Atualmente trabalhando com Suporte tecnico em rede.    
 
- - 🌱 Estudando Back-end/Devops<!--( Linux, Nodejs  )-->.      
+ - 🌱 Estudante de Ciências da computação <!--( Linux, Golang 🦫  )-->.      
 
  - 📫 Contato:olavoferreira107@gmail.com      
 
