@@ -7,9 +7,9 @@
 ###
  - 🔭 Atualmente trabalhando com infraestrutura de redes.    
 
- - 🌱 Estudante de Ciências da computação <!--( Linux, Golang 🦫  )-->.      
+ - 🌱 Estudante de Ciências da computação. Linux, Golang 🦫.      
 
- - 📫 Contato:olavoferreira107@gmail.com      
+ - 📫 Contato:olavooferreiras@gmail.com      
 
 <!--
 <div/>
