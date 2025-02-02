@@ -5,7 +5,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=olavooferreira&color=yellow" alt="Profile views" /> </p> -->
 
 ###
- - 🔭 Atualmente trabalhando com Suporte tecnico em rede.    
+ - 🔭 Atualmente trabalhando com infraestrutura de redes.    
 
  - 🌱 Estudante de Ciências da computação <!--( Linux, Golang 🦫  )-->.      
 
